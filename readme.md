@@ -1,24 +1,10 @@
-# Lesson 2 - Dimensions of a room
+# Lesson 3 - Dimensions of a room
 
-In this lesson, you will be ```prompt()``` ing the user for the properties required to calculate the Area, Volume, and Perimeter of a room.  You will need to gater the required information...  
+Create a function that takes in a number as a parameter. in that function, I want you to figure out how many odd numbers exist between 0 and the number you entered.  Then return the sum total numbers of odd numbers.
 
-1. Length
-2. Width
-3. Height
-
-
-with this information, calculate the Area, Perimeter and Volume of said room.  After calculating this information, display this info with an ```alert()``` to the user.    
+for example
 
 ```
-Area: 100
-perimeter: 20
-volume: 1000
+let result = findNumberOfOdds(8);
+console.log(result);  // 4,  because the odd numbers between 0 and 8 is 1, 3, 5, 7
 ```
-
-afterwords, display another ```prompt()``` asking the user if they want the dimensions of another room, ask for either ```YES``` or ```NO```
-
-if they enter yes, repeat everything from the beginning.
-
-### Tip:
-
-you will need to use a while loop for this exercise.
