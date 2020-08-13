@@ -1,4 +1,4 @@
-# Lesson 3 - Dimensions of a room
+# Lesson 3 - How many odd numbers?
 
 Create a function that takes in a number as a parameter. in that function, I want you to figure out how many odd numbers exist between 0 and the number you entered.  Then return the sum total numbers of odd numbers.
 
