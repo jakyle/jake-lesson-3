@@ -7,5 +7,9 @@
     })()
      
     // everything should be in their own functions!
+    //
+    // function doThing() {
+    //      doing thing
+    // }
 
 })("hello world!")
