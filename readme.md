@@ -8,3 +8,6 @@ for example
 let result = findNumberOfOdds(8);
 console.log(result);  // 4,  because the odd numbers between 0 and 8 is 1, 3, 5, 7
 ```
+
+
+make sure you define your function in the main function call (you should see in the comments in the javascript file).  also make sure you are calling your new function inside your main function.
